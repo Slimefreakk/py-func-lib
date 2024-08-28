@@ -1,6 +1,6 @@
 # Python Function Library
 
-Collection of Python functions that I write time to time to make some stuff easier.
+Collection of Python functions that I write time to time to make some stuff easier and more readable.
 
 You can contribute and fork this repo however you want.
 
